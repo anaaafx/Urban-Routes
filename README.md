@@ -1,7 +1,7 @@
 # Urban-Routes
-Casos de teste do Urban Routes, para este projeto: 
+Neste projeto: 
 - Analisei os requisitos e projetei alguns testes
-- Decompus e visualei os requisitos com um mapa mental, um fluxograma e uma tabela.
+- Decompus e visualizei os requisitos com um mapa mental, um fluxograma e uma tabela.
 - Defini os objetos de teste e projetei testes com a ajuda de técnicas de design de teste.
 - Analisei os requisitos, encontrei zonas cinzentas e as especifiquei.
 - Escrevi casos de teste.
